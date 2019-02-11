@@ -6,6 +6,24 @@
 
 > Provide basic information about your dataset in this section. If you selected your own dataset, make sure you note the source of your data and summarize any data wrangling steps that you performed before you started your exploration.
 
+The Data
+* Each trip is anonymized and includes:
+* Trip Duration (seconds)
+* Start Time and Date
+* End Time and Date
+* Start Station ID
+* Start Station Name
+* Start Station Latitude
+* Start Station Longitude
+* End Station ID
+* End Station Name
+* End Station Latitude
+* End Station Longitude
+* Bike ID
+* User Type (Subscriber or Customer – “Subscriber” = Member or “Customer” = Casual)
+* Member Year of Birth
+* Member Gender
+
 
 ## Summary of Findings
 
